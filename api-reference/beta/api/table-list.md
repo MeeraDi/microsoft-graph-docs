@@ -1,6 +1,6 @@
 ---
 title: "List TableCollection"
-description: "Retrieve a list of table objects."
+description: "Review the API reference about the List TableCollection method, which retrieves a list of table objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

@@ -1,6 +1,6 @@
 ---
 title: "List rows"
-description: "Retrieve a list of tablerow objects."
+description: "Review the API reference concerning the List rows method, which retrieves a list of tablerow objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

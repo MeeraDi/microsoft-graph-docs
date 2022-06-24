@@ -1,7 +1,7 @@
 ---
+title: "Get a SharePoint Site"
+description: "Review the API reference about how to Get a SharePoint Site, which retrieves properties and relationships for a site resource."
 author: JeremyKelley
-description: "Retrieve properties and relationships for a site resource."
-title: Get a SharePoint Site
 ms.localizationpriority: medium
 ms.prod: "sharepoint"
 doc_type: apiPageType

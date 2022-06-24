@@ -1,6 +1,6 @@
 ---
 title: "Update user"
-description: "Update the properties of a user object."
+description: "Review the API reference about the Update user method, which updates the properties of a user object."
 author: "jpettere"
 ms.localizationpriority: medium
 ms.prod: "users"
@@ -357,7 +357,7 @@ You can update or assign a value to a single property or all properties in the e
 #### Request
 
 
-# [HTTP](#tab/http)
+# [Powershell](#tab/powershell)
 <!-- {
   "blockType": "request",
   "name": "update_schemaextension"

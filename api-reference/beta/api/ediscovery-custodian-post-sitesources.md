@@ -1,6 +1,6 @@
 ---
 title: "Create custodian siteSource"
-description: "Create a new custodian siteSource object."
+description: "Review the API reference about the Create custodian siteSource method, which creates a new custodian siteSource object."
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryReviewSet: export"
-description: "Initiate an export from a reviewSet."
+description: "Review the API reference about the ediscoveryReviewSet: export method, which initiates an export from a reviewSet."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

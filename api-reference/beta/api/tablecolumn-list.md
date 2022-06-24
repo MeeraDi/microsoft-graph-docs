@@ -1,6 +1,6 @@
 ---
 title: "List TableColumnCollection"
-description: "Retrieve a list of tablecolumn objects."
+description: "Review the API reference about the List TableColumnCollection method, which retrieves a list of tablecolumn objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

@@ -1,6 +1,6 @@
 ---
 title: "List legalHold userSources"
-description: "Get the userSource resources from the userSources navigation property."
+description: "Review the API reference about the List legalHold userSources method, which gets the list of userSource objects associated with a legal hold."
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

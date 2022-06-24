@@ -1,6 +1,6 @@
 ---
 title: "Update user"
-description: "Update the properties of a user object."
+description: "Review the API reference about the Update user method, which updates the properties of a user object."
 author: "rolyon"
 localization_priority: Normal
 ms.prod: "intune"

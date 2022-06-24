@@ -1,6 +1,6 @@
 ---
 title: "Create user"
-description: "Create a new user."
+description: "Review the API reference about the Create user method, which creates a new user. The request body contains the user to create."
 author: "jpettere"
 ms.localizationpriority: medium
 ms.prod: "users"

@@ -1,6 +1,6 @@
 ---
 title: "List userSources"
-description: "Get the userSource resources from the userSources navigation property."
+description: "Review the API reference about the List userSources method, which gets the userSource resources from the userSources navigation property."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

@@ -1,6 +1,6 @@
 ---
 title: "Range: LastRow"
-description: "."
+description: "Review the API reference about the Range: LastRow method, which retrieves the last row within the range."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

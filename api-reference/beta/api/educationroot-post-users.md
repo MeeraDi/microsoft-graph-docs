@@ -1,6 +1,6 @@
 ---
 title: "Create educationUser"
-description: "Create a new user."
+description: "Review the API reference concerning the Create educationUser method, which creates a new educationUser."
 author: "mmast-msft"
 ms.localizationpriority: medium
 ms.prod: "education"

@@ -1,6 +1,6 @@
 ---
 title: "List borders"
-description: "Retrieve a list of rangeborder objects."
+description: "Review the API reference about the List borders method, which retrieves a list of rangeborder objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

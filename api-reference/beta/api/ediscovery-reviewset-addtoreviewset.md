@@ -1,6 +1,6 @@
 ---
 title: "reviewSet: addToReviewSet"
-description: "Start the process of adding a collection from Microsoft 365 services to a review set."
+description: "Review the API reference about the reviewSet: addToReviewSet method, which starts adding a collection from Microsoft 365 services to a review set."
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

@@ -1,6 +1,6 @@
 ---
 title: "Range: LastCell"
-description: "."
+description: "Review the API reference about the Range: LastCell method, which retrieves the last cell within the range."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"
