@@ -1,6 +1,6 @@
 ---
 title: "reviewSet: export"
-description: "Review the API reference about the reviewSet: export method, which initiates an export from a reviewSet."
+description: Review API reference information about using the reviewSet export method to initiate an export from a reviewSet.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

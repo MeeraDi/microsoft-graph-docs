@@ -1,6 +1,6 @@
 ---
 title: "Range: LastColumn"
-description: "Review the API reference about the Range: LastColumn method, which retrieves the last column within the range."
+description: Review API reference information about using the range LastColumn method to retrieve the last column within the range.
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

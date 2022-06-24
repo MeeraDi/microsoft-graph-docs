@@ -1,6 +1,6 @@
 ---
 title: "Create and send a notification"
-description: "Review the API reference about the Create and send a notification method, which targets a user through Microsoft Graph."
+description: Review API reference information about using the create and send a notification method to target a user through the Microsoft Graph nnotification feed store.
 ms.localizationpriority: medium
 ms.prod: "notifications"
 doc_type: apiPageType

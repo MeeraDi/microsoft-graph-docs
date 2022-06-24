@@ -1,6 +1,6 @@
 ---
 title: "custodian: release"
-description: "Review the API reference about the custodian: release method, which releases a custodian from a case."
+description: Review API reference information about using the custodian release method to release a custodian from a case.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

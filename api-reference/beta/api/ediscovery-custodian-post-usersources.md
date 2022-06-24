@@ -1,6 +1,6 @@
 ---
 title: "Create custodian userSource"
-description: "Review the API reference about the Create custodian userSource method, which creates a new custodian userSource object."
+description: Review API reference information about using the Create custodian userSource method to create a new custodian userSource object.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

@@ -1,6 +1,6 @@
 ---
 title: "noncustodialDataSource: release"
-description: "Review the API reference about the noncustodialDataSource: release method, which releases the non-custodial data source from the case."
+description: Review API reference information about using the noncustodialDataSource release method to release non-custodial data source from a case.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

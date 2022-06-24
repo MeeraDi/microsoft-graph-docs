@@ -1,6 +1,6 @@
 ---
 title: "List legalHold userSources"
-description: "Review the API reference about the List legalHold userSources method, which gets the list of userSource objects associated with a legal hold."
+description: Review API reference information about using the list legalHold userSources method to get a list of userSource objects associated with a legal hold.
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

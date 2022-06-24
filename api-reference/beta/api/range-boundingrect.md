@@ -1,6 +1,6 @@
 ---
 title: "Range: BoundingRect"
-description: "Review the API reference about the Range: BoundingRect method, which gets the smallest range object that encompasses the given ranges."
+description: Review API reference information about using the range BoundingRect method to retrieve the smallest range object that encompasses the specified ranges.
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"
